@@ -1,6 +1,6 @@
 ## db
 
-small gem generating database.yml
+small gem generating database.yml inspired by [gist](https://gist.github.com/erichurst/961978) and generators in `railties` gem
 
 #### Installation
 
