@@ -10,3 +10,9 @@ cd db
 gem build db.gemspec
 gem install *.gem
 ```
+
+#### Usage
+
+```
+db config [mysql|postgresql|sqlite3]
+```
